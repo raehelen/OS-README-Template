@@ -37,9 +37,13 @@ until finished
 If applicable, provide an example - or provide a link to example code within repository
 
 
-## Deployment (if applicable)
+## Deployment & Testing (if applicable)
 
-Add additional notes about how to deploy this on a live system
+Add additional notes about how to deploy this on a live system and how to run tests
+
+```
+Give the example
+```
 
 ## Built with or Data Sources (if applicable)
 
