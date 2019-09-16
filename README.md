@@ -4,7 +4,8 @@ Project description goes here
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you introduced to the work and get the ball rolling.  
+
 
 ### Prerequisites
 
@@ -31,7 +32,6 @@ until finished
 ```
 
 
-
 ## Examples
 
 If applicable, provide an example - or provide a link to example code within repository
@@ -41,7 +41,7 @@ If applicable, provide an example - or provide a link to example code within rep
 
 Add additional notes about how to deploy this on a live system
 
-## Built with or Data Sources
+## Built with or Data Sources (if applicable)
 
 * [Maven](https://maven.apache.org/) - Dependency Management
 * C++
