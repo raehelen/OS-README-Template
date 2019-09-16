@@ -6,6 +6,10 @@ Project description goes here
 
 These instructions will get you introduced to the work and get the ball rolling.  
 
+## Built with or Data Sources (if applicable)
+
+* [Maven](https://maven.apache.org/) - Dependency Management
+* OS MasterMap Topography 
 
 ### Prerequisites
 
@@ -45,11 +49,6 @@ Add additional notes about how to deploy this on a live system and how to run te
 Give the example
 ```
 
-## Built with or Data Sources (if applicable)
-
-* [Maven](https://maven.apache.org/) - Dependency Management
-* C++
-* OS MasterMap Topography 
 
 ## Contributing or Feedback
 
