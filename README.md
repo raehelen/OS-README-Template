@@ -6,6 +6,7 @@ Project description goes here
 ## Getting Started
 
 These instructions will get you introduced to the work and get the ball rolling.
+Adding links and information on where to get additional help is useful here.
 
 
 ## Built with or Data Sources (if applicable)
