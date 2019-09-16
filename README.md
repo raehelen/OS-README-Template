@@ -68,6 +68,6 @@ When contributing to this repository, please first discuss the change you wish t
 
 ## License
 
-Choose the most suitable from a range of licenses provided. 
+Choose the most suitable from a range of licenses provided (OGL, Apache, MIT etc.)
 
 
