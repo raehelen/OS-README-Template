@@ -37,7 +37,7 @@ until finished
 If applicable, provide an example - or provide a link to example code within repository
 
 
-## Deployment
+## Deployment (if applicable)
 
 Add additional notes about how to deploy this on a live system
 
